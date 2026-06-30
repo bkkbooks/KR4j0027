@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR4j0027/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4j0027/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 漱玉詞
+  date: '2015-08-25 00:47:41.511469'
+  source:
+    repository: kanripo
+    path: KR4j0027
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4j0027_000-WYG.yaml, hash: 'sha256:4b5632194d90d8268cd023a28c1c2ebc80e58b9c144973c540495cfc2e288444'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4j0027_000-WYG.markers.yaml, hash: 'sha256:91762c4c9cf039b6257ba968279e755c8f2a9c09c6c63c8e21218cd426da6844'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4j0027_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 2456
+  label: 潄玉詞
+  type: section
+  level: 1
+hash: sha256:63299d5c2d47ca82e233e15c662ff48c64a08f1b16545614aed5bddd51a9c9ad
