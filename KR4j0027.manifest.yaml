@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR4j0027_000.yaml, hash: 'sha256:37221b0c183116f64c75e74ca1294ae5eafb34239859459e8fdcaf02151e2c3f'}
+  - {seq: 0, filename: KR4j0027_000.yaml, hash: 'sha256:9528904028c02c31b861378abc8022dae0e36c4b66dad04a718bf113e71f9791'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4j0027_000.markers.yaml, hash: 'sha256:ce054152d4cb49952bec2796a19e707880cd5a53eae5ce75f171a687e3e0b2aa'}
+  - {seq: 0, role: markers, filename: assets/KR4j0027_000.markers.yaml, hash: 'sha256:530a1999aabd4714a05c7f43cfecbee130477da4df2f6812a92182511f374480'}
 table_of_contents:
 - ref:
     seq: 0
@@ -34,7 +34,4 @@ table_of_contents:
   label: 潄玉詞
   type: section
   level: 1
-hash: sha256:63436c1ac4e93e2c63786b728da6f8ca2e4a200cb8166c60c7724b7d6b7f20c0
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:af494d9ec2978485b72e964f55189bebc8640c34aab2787210786be0f79579ea
