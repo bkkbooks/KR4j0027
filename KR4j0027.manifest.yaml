@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4j0027/v1
 canonical_location: https://kanripo.org/bkk/KR4j0027/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 漱玉詞
   date: '2015-08-25 00:47:41.511469'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR4j0027_000.yaml, hash: 'sha256:9528904028c02c31b861378abc8022dae0e36c4b66dad04a718bf113e71f9791'}
+  - {seq: 0, filename: KR4j0027_000.yaml, hash: 'sha256:c27ac150298f776eba14e739fa3483bc91e715ce8807cc1b6f12e205068a8b69'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4j0027_000.markers.yaml, hash: 'sha256:530a1999aabd4714a05c7f43cfecbee130477da4df2f6812a92182511f374480'}
+  - {seq: 0, role: markers, filename: assets/KR4j0027_000.markers.yaml, hash: 'sha256:412f92a0c862814d6a478ed2f08b9c42d2d6cff148cf2724a163ef42a65fef3b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -34,4 +34,7 @@ table_of_contents:
   label: 潄玉詞
   type: section
   level: 1
-hash: sha256:af494d9ec2978485b72e964f55189bebc8640c34aab2787210786be0f79579ea
+hash: sha256:b1b86eeb3a947423f100148444e29ce930d93e0a8eccdec20b0041e466b2d293
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
