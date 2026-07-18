@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR4j0027_000-WYG.yaml, hash: 'sha256:4b5632194d90d8268cd023a28c1c2ebc80e58b9c144973c540495cfc2e288444'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4j0027_000-WYG.markers.yaml, hash: 'sha256:91762c4c9cf039b6257ba968279e755c8f2a9c09c6c63c8e21218cd426da6844'}
+  - {seq: 0, role: markers, filename: assets/KR4j0027_000-WYG.markers.yaml, hash: 'sha256:911417a1f2421800ab957d7ee7a110ca0d39cf5457e90de56f63a6c3c0b530c6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -31,4 +31,4 @@ table_of_contents:
   label: 潄玉詞
   type: section
   level: 1
-hash: sha256:63299d5c2d47ca82e233e15c662ff48c64a08f1b16545614aed5bddd51a9c9ad
+hash: sha256:65ea0506cf1644c948fa5fbaaf209e3795ecca21e2c2a7420c40ac3b6efacb64
